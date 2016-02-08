@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary      = "C++ Format is an open-source formatting library for C++."
   s.homepage     = "https://github.com/cppformat/cppformat"
   s.license      = {
-    :type => "ISC",
+    :type => "BSD",
     :file => "LICENSE"
   }
   s.author       = {
